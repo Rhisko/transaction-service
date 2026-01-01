@@ -1,0 +1,13 @@
+{
+  "name": "transaction-service",
+  "version": "1.0.0",
+  "description": "Node.js Fastify backend for DevSecOps security testing",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "lodash": "4.17.20"
+  }
+}
